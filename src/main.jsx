@@ -12,7 +12,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Provider store={store}>
       <DirectionProvider>
-        <BrowserRouter>
+        <BrowserRouter basename="/syaanh">
           <App />
         </BrowserRouter>
       </DirectionProvider>
