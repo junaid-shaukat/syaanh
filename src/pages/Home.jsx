@@ -66,7 +66,7 @@ function Home() {
                                 <h2 className="font-headline-lg text-headline-lg text-on-surface">Flash Offers</h2>
                                 <p className="text-on-surface-variant font-body-md">Limited time deals on home essentials</p>
                             </div>
-                            <a className="text-primary font-label-md hover:underline flex items-center gap-2" href="/offers">
+                            <a className="text-primary font-label-md hover:underline flex items-center gap-2" href="syaanh/offers">
                                 View All <span className="material-symbols-outlined text-sm">arrow_forward</span>
                             </a>
                         </div>
@@ -154,7 +154,7 @@ function Home() {
                                         <span className="material-symbols-outlined">chevron_right</span>
                                     </button>
                                 </div>
-                                <a className="text-primary font-label-md hover:underline flex items-center gap-2" href="/services">
+                                <a className="text-primary font-label-md hover:underline flex items-center gap-2" href="syaanh/services">
                                     View All <span className="material-symbols-outlined text-sm">arrow_forward</span>
                                 </a>
                             </div>
@@ -236,7 +236,7 @@ function Home() {
                                         <span className="material-symbols-outlined">chevron_right</span>
                                     </button>
                                 </div>
-                                <a className="text-primary font-label-md hover:underline flex items-center gap-2" href="/shopping">
+                                <a className="text-primary font-label-md hover:underline flex items-center gap-2" href="syaanh/shopping">
                                     View All <span className="material-symbols-outlined text-sm">arrow_forward</span>
                                 </a>
                             </div>
